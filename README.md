@@ -3,7 +3,7 @@ An updated/experimental version of AutoApe (https://github.com/ChunkyMonkey22/Au
 
 V5 integrates ImageSearch (AutoIT library) to fix timing problems with the original release. This script will constantly scan the desktop (trying to match namisign.bmp), click when/where the image is found and attempt to sign your nami transaction automatically.
 
-Note: If the script is not working, try taking a screenshot of your NAMI wallet and replace 'namisign.bmp' (see included example.jpg)
+Note: If the script is not working, try taking a screenshot of your NAMI wallet, crop and replace 'namisign.bmp' (see included example.jpg)
 
 Included Files:
 
